@@ -27,4 +27,4 @@ class AdminHomeController extends Controller
 
 // chỉnh sửa trang chủ (update)
 
-
+// cập nhật dử liệu mới 
