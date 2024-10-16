@@ -24,3 +24,4 @@ class AdminHomeController extends Controller
         }
     }
 }
+// chỉnh sửa trang chủ (update)
