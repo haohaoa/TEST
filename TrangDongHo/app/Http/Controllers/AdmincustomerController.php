@@ -105,4 +105,4 @@ class AdmincustomerController extends Controller
     }
     
 
-}
+}//chức năng khách hàng (update)
