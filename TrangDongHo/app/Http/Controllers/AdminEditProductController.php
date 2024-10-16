@@ -57,4 +57,4 @@ class AdminEditProductController extends Controller
     return redirect()->route('admin_product')->with('success', 'Product updated successfully');
 }
 
-}
+}//chỉnh sửa sản phẩm
